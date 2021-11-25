@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2021-11-25
+- Added data-drawer-prevent-scroll attribute to prevent the underlying content from scrolling while the drawer is open
+
 ## [1.0.3] - 2020-05-02
 - Fixed issue when drawer was open by default (close button not working)
 
